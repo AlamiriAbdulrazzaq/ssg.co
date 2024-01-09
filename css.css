@@ -1,0 +1,73 @@
+.custom-background {
+  background-image: url("Images/ban.png");
+  background-size: cover;
+  background-position: center;
+  margin-top: 70px;
+}
+.custom-background2 {
+  background-image: url("https://www.biltmoreautomotive.com/wp-content/uploads/2020/09/BILTMORE-HOME-SLIDER3-1.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-top: 70px;
+}
+.h4Style {
+  display: flex;
+  justify-content: center;
+}
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 40px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn-primary {
+  width: 100%;
+}
+
+.services-padding {
+  padding-bottom: 30px;
+}
+
+.job-background {
+  margin-top: 100px;
+  background-image: url("Images/jb.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.custom-navbar {
+  background-color: #ffffff;
+}
+
+.btn-color {
+  color: #192f5a;
+}
+
+footer {
+  background-color: #272727;
+  padding: 20px;
+  text-align: center;
+}
+
+footer p {
+  color: #fff;
+}
+
+.drow {
+  color: #272727;
+}
